@@ -1,6 +1,9 @@
 /*
  *  Zhanat - ничего не менял. разобрался болеее менее с логикой и порядком выполнения
  */
+
+// Homework № 3
+
 import java.util.*;
 
 class TicTacToe {
